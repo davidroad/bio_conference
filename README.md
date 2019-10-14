@@ -7,8 +7,8 @@ Important bioinformatic conference\
 5, American Society of Human Genetics (ASHG), https://www.ashg.org/ Normally Oct. \
 6, American association for cnacer research (AACR), https://www.aacr.org/Meetings/Pages/ Normally April \
 7, International society of psychiatric genetics (ISPG), https://ispg.net/annual-world-congress/general-information/ \
-8, Internation conference on Intelligent Bioilogy and Medicine (ICIBM), http://icibm2019.org/  
-
+8, Internation conference on Intelligent Bioilogy and Medicine (ICIBM), http://icibm2019.org/ \
+9, The Amereican Association of Immunologists (AAI), https://www.aai.org/Meetings/AAI-Annual-Meeting Normally May
 # Within China
 
 1, International Conference on Computational Systems Biology www.aporc.org/ISB/ \
