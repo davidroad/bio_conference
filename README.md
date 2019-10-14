@@ -10,7 +10,7 @@ Important bioinformatic conference\
 8, Internation conference on Intelligent Bioilogy and Medicine (ICIBM), http://icibm2019.org/\
 # Within China
 
-1. International Conference on Computational Systems Biology www.aporc.org/ISB/\
+1, International Conference on Computational Systems Biology www.aporc.org/ISB/\
 2, International Conference on Biological information and biomedical engineering, http://www.icbibe.org\
 3, IEEE International Conference on Bioinformatics and Computational Biology (ICBCB), http://www.icbcb.org/\
 4, International Conference on Bioinformatics and biomedical Technology http://www.icbbt.org/\
