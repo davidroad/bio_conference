@@ -17,7 +17,7 @@
 4, International Conference on Bioinformatics and biomedical Technology, http://www.icbbt.org/  \
 5, Asia Pacific Bioinformatics Conference, http://epigenomics.snu.ac.kr/APBC2020/
 
-# Useful website to find this conference imformation
+# Useful approach/website to find these conference information
 1, google input "bio conference calendar in Aug 8 - 11 2020 in USA", could switch the location to "Europe", "China","Canada","Japan" & etc.) goole will give the event information from other website source. \
 2, wiki call for paper, http://www.wikicfp.com/cfp/ \
 3, conference alert, https://conferencealerts.com/ \
