@@ -22,4 +22,6 @@
 2, wiki call for paper, http://www.wikicfp.com/cfp/ \
 3, conference alert, https://conferencealerts.com/ \
 4, World Conference Calendar, http://www.worldconferencecalendar.com \
-5, conference service, https://www.conference-service.com
+5, conference service, https://www.conference-service.com \
+6, www.bioinformatics.org \
+7. International society for computational biology (ISCB), https://www.iscb.org/ \
